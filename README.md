@@ -45,7 +45,7 @@ As per my Java Full Stack Training syllabus, this repo will grow to include:
 
 ---
 
-📌 Note
+📌 Note : 
 This repo is for educational purposes only and follows my personal learning journey in the Java Full Stack course.
 
 👤 Author : 
