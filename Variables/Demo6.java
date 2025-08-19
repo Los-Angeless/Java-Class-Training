@@ -4,7 +4,8 @@ public static void main(String [] args)
 {
       
  byte x=10, y=20, temp;
- 
+
+      
  // before Swapping 
  
   System.out.println("x = " + x);
