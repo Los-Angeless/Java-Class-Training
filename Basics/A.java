@@ -24,6 +24,7 @@ class C
 public static void main(String [] args)
 {
     // Print out a message to the console
+    
     System.out.println("Inside C");
 
 }
