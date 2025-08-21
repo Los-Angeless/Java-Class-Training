@@ -4,7 +4,7 @@ public static void main(String [] args)
 {
       
  byte x=10;      
- byte x=20;      
+//  byte x=20;  throws error     
      
   System.out.println(x);
   
