@@ -7,7 +7,7 @@ class Demo13
 {
   int x =10;
   int $ = 20;
-  // int _ = 30;  
+ // // int _ = 30;  
   
    System.out.println(x);
    System.out.println($);
