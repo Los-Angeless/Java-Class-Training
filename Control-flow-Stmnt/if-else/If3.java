@@ -1,0 +1,15 @@
+// write java program for out of 2 number which one is greater
+class If3
+{
+ public static void main(String[] args) {
+  int num1 = 24;
+  int num2 = 32;
+  if(num1>num2) {
+  System.out.println("num1 is greater");
+  }
+  else {
+    System.out.println("num2 is greater");
+  }
+  
+ }
+}
