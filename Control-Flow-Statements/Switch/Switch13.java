@@ -12,7 +12,7 @@ class Switch13
         case 127 : System.out.println("Inside 127");
 	    break;
 	    
-     //   case 128 : System.out.println("Inside 128");
+     //   case 128 : System.out.println("Inside 128");              // it will throws error
 	 //   break;
 	    
 	    
@@ -20,4 +20,5 @@ class Switch13
 	    break;    
        }
  }
+
 }
