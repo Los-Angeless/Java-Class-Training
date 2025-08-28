@@ -12,7 +12,7 @@ class Switch13
         case 127 : System.out.println("Inside 127");
 	    break;
 	    
-     //   case 128 : System.out.println("Inside 128");              // it will throws error
+     //   case 128 : System.out.println("Inside 128");              // it will throws error  // byte range =  -128 to +127
 	 //   break;
 	    
 	    
@@ -22,3 +22,4 @@ class Switch13
  }
 
 }
+
